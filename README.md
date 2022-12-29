@@ -22,5 +22,11 @@ Trabajo final de la asignatura GTR de la Universidad Pompeu Fabra. En esta últi
 * # VOLUMETRIC LIGHT:
   La luz volumetrica se ha implementado sólo para la luz direccional. Esta opción también se puede activar o desactivar des de una opción del GUI.
   
-* # DECALS
- Para terminar hemos implementado la opción de poder añadir Decals en nuestro render. Se puede activar y ver uno implementado en la escena.
+* # DECALS:
+  Para terminar hemos implementado la opción de poder añadir Decals en nuestro render. Se puede activar y ver uno implementado en la escena.
+
+# GALLERY
+
+ <img src="https://github.com/AlvarAlonso/GTR/blob/master/captures/Car.png" alt="car"/>
+ <img src="https://github.com/AlvarAlonso/GTR/blob/master/captures/gbuffers.PNG" alt="gbuffers"/>
+ <img src="https://github.com/AlvarAlonso/GTR/blob/master/captures/volumetric_light.PNG" alt="volumetric_light"/>
